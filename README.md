@@ -51,9 +51,10 @@ Make sure you have the following installed on your local machine:
    ```
 
 4. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+5. ## How to install
+
 
 <br>
 <h1 align="center">
   Outstanding development! 🚀
 </h1>
-## How to Install
