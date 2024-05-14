@@ -3,7 +3,7 @@ import React from "react";
 import { Meteors } from "@/components/ui/meteors";
 import { BackgroundBeams } from "@/components/ui/background-beams";
 
-function Page() {
+function page() {
   return (
     
     <section className="bg-black/[0.96] antialiased bg-grid-white/[0.04]">
@@ -33,18 +33,4 @@ function Page() {
 </section>
   )
 }
-export const buttons = [
-  {
-    name: "Submit",
-    description: "Submit button for your website",
-    showDot: false,
-    component: (
-      <button className="inline-flex h-12 animate-shimmer items-center justify-center rounded-md border border-slate-800 bg-[linear-gradient(110deg,#000103,45%,#1e2631,55%,#000103)] bg-[length:200%_100%] px-6 font-medium text-slate-400 transition-colors focus:outline-none focus:ring-2 focus:ring-slate-400 focus:ring-offset-2 focus:ring-offset-slate-50">
-        Submit
-      </button>
-    ),
-
-        
-  },
-]
-export default Page;
+export default page
