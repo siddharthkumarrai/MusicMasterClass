@@ -56,3 +56,4 @@ Make sure you have the following installed on your local machine:
 <h1 align="center">
   Outstanding development! 🚀
 </h1>
+## How to Install
