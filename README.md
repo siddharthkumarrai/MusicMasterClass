@@ -1,6 +1,6 @@
 # MusicMasterClass
 
-Welcome to the MusicMasterClass repository! This is a learning project built with Next.js and TypeScript.
+Welcome to the MusicMasterClass repository! This is a Frontend learning project built with Next.js and TypeScript.
 
 <!-- for [briefly describe the purpose or goal of the project]. -->
 
