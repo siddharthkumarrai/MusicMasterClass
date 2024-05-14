@@ -9,7 +9,7 @@ function page() {
     <section className="bg-black/[0.96] antialiased bg-grid-white/[0.04]">
   <div className="py-8 lg:py-16 px-4 mx-auto max-w-screen-md">
       <h2 className="mt-16 text-4xl tracking-tight font-extrabold text-center text-gray-900 dark:text-white">Contact Us</h2>
-      <p className="mt-8 lg:mb-16 font-light text-center text-gray-500 dark:text-gray-400 sm:text-xl">Our dedicated team is committed to providing you with the support and information you need. Whether you're a teacher, student, or music enthusiast, we look forward to hearing from you!.</p>
+      <p className="mt-8 lg:mb-16 font-light text-center text-gray-500 dark:text-gray-400 sm:text-xl">Our dedicated team is committed to providing you with the support and information you need. Whether you&#39;re a teacher, student, or music enthusiast, we look forward to hearing from you!.</p>
       <form action="#" className="space-y-8">
           <div>
               <label htmlFor="email" className="block mb-2 text-sm font-medium text-gray-900 dark:text-gray-300">Your email</label>
